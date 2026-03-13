@@ -21,6 +21,12 @@ Step-by-step visualization of DFS maze generation + BFS / A\* / Dijkstra pathfin
 Watch the data structures (stack, queue, open set) update live as the algorithm runs.
 Zero dependencies — open one HTML file in a browser.
 
+### [🎮 Tic Tac Toe](https://github.com/ayoub-lamliti/tic-tac-toe-auto-game)
+**[→ Live Demo](https://ayoub-lamliti.github.io/tic-tac-toe-auto-game)**
+
+Play vs a friend or challenge an AI powered by the **Minimax algorithm** — hard mode is unbeatable.
+Easy / hard difficulty, responsive design, zero dependencies.
+
 ---
 
 ## 📫 Reach me
