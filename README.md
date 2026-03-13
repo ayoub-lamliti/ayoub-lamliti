@@ -1,6 +1,6 @@
 # Hey, I'm Ayoub 👋
 
-I build interactive tools that make algorithms visible — because understanding something is different from *seeing* it work.
+Full stack web developer. I build real-world web applications — REST APIs, dashboards, mobile apps, and everything in between.
 
 Currently at **42 School**, focused on systems programming and algorithms.
 
@@ -13,6 +13,13 @@ Currently at **42 School**, focused on systems programming and algorithms.
 ---
 
 ## 🚀 Featured Project
+
+### [🏭 OCP — Digitalisation des Modes Opératoires](https://github.com/ayoub-lamliti/ocp-dmo)
+
+Full stack web application for creating and managing operational procedures at **OCP Maintenance Solutions S.A**.
+Laravel REST API + React frontend + MySQL + MinIO file storage + Laravel Sanctum auth + OTP email + role-based access (Super Admin / Admin / Consultant).
+
+---
 
 ### [🌀 Maze Algorithm Visualizer](https://github.com/ayoub-lamliti/Maze-visualizer)
 **[→ Live Demo](https://ayoub-lamliti.github.io/Maze-visualizer/)**
