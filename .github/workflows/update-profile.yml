@@ -1,0 +1,37 @@
+name: Update Profile README
+
+on:
+  schedule:
+    - cron: "0 */6 * * *" # كايخدم كل 6 السوايع
+  workflow_dispatch: # باش تقدر تخدمو نتا وقتما بغيتي تجرب
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          pip install feedparser requests
+
+      - name: Run Update Script
+        env:
+          # حط هنا الرابط ديال الـ Feed ديال WordPress ديالك
+          WP_FEED: "https://woodruff.dev/category/blog/feed/"
+          GH_USER: "your-username-here"
+        run: python scripts/update_readme.py
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Auto-update README with latest content" || exit 0
+          git push
