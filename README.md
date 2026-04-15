@@ -28,5 +28,5 @@ Play vs a friend or challenge an AI powered by the **Minimax algorithm** — mak
 
 ## 📫 Reach me
 
-- **LinkedIn:** [زيد اللينك ديال لينكدين ديالك هنا]
+- **LinkedIn:** [Ayoub lamliti](https://www.linkedin.com/in/ayoub-lamliti/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BUpaXoA10Sb6elR8Wb1Fj%2FA%3D%3D)
 - **Location:** Safi / 1337 Rabat, Morocco
