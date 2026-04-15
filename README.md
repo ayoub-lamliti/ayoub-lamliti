@@ -14,11 +14,6 @@ I build native Android applications focusing on clean architecture, performance,
 
 ## 🚀 Projects
 
-### 📱 [🚧 Placeholder: Name of your upcoming Kotlin App]
-*(هنا فين غتحط البروجي د Kotlin لي تافقنا غتصايبو. خليه دابا خاوي أو حطو Private حتى تساليه)*
-- **Tech:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit.
-- **Concept:** [وصف قصير للبروجي لي غتخدم عليه]
-
 ### 🧠 Algorithms & Problem Solving
 
 #### [🌀 Maze Algorithm Visualizer](https://github.com/ayoub-lamliti/Maze-visualizer)
