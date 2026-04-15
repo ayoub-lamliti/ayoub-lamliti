@@ -1,38 +1,37 @@
 # Hey, I'm Ayoub 👋
 
-Full stack web developer. I build real-world web applications — REST APIs, dashboards, mobile apps, and everything in between.
+**Android Developer | Software Engineering @ 1337 (42 Network)**
 
-Currently at **42 School**, focused on systems programming and algorithms.
-
----
-
-## 🛠 What I work with
-
-![My Skills](https://skillicons.dev/icons?i=php,laravel,kotlin,react,nextjs,vue,flutter,ts,js,html,css,c&theme=dark)
+I build native Android applications focusing on clean architecture, performance, and modern UI. Currently mastering systems programming (C) and complex algorithms at 1337 Coding School to build highly optimized mobile systems.
 
 ---
 
-## 🚀 Featured Project
+## 🛠 Tech Stack
 
-### [🌀 Maze Algorithm Visualizer](https://github.com/ayoub-lamliti/Maze-visualizer)
+![My Skills](https://skillicons.dev/icons?i=kotlin,androidstudio,java,c,git,linux,github,postman&theme=dark)
+
+---
+
+## 🚀 Projects
+
+### 📱 [🚧 Placeholder: Name of your upcoming Kotlin App]
+*(هنا فين غتحط البروجي د Kotlin لي تافقنا غتصايبو. خليه دابا خاوي أو حطو Private حتى تساليه)*
+- **Tech:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit.
+- **Concept:** [وصف قصير للبروجي لي غتخدم عليه]
+
+### 🧠 Algorithms & Problem Solving
+
+#### [🌀 Maze Algorithm Visualizer](https://github.com/ayoub-lamliti/Maze-visualizer)
 **[→ Live Demo](https://ayoub-lamliti.github.io/Maze-visualizer/)**
+Step-by-step visualization of DFS maze generation + BFS / A\* / Dijkstra pathfinding. Watch the data structures update live as the algorithm runs. Built with zero dependencies.
 
-Step-by-step visualization of DFS maze generation + BFS / A\* / Dijkstra pathfinding.
-Watch the data structures (stack, queue, open set) update live as the algorithm runs.
-Zero dependencies — open one HTML file in a browser.
-
-### [🎮 Tic Tac Toe](https://github.com/ayoub-lamliti/tic-tac-toe-auto-game)
+#### [🎮 Tic Tac Toe vs AI](https://github.com/ayoub-lamliti/tic-tac-toe-auto-game)
 **[→ Live Demo](https://ayoub-lamliti.github.io/tic-tac-toe-auto-game)**
-
-Play vs a friend or challenge an AI powered by the **Minimax algorithm** — hard mode is unbeatable.
-Easy / hard difficulty, responsive design, zero dependencies.
+Play vs a friend or challenge an AI powered by the **Minimax algorithm** — making the hard mode mathematically unbeatable.
 
 ---
 
 ## 📫 Reach me
 
-- GitHub: [@ayoub-lamliti](https://github.com/ayoub-lamliti)
-
----
-
-*Safi, Morocco*
+- **LinkedIn:** [زيد اللينك ديال لينكدين ديالك هنا]
+- **Location:** Safi / 1337 Rabat, Morocco
